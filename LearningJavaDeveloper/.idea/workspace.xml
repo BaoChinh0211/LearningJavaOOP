@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="891f54b5-8e94-41c8-9dc1-7ad6ce30905a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/corretto-11.0.20.1/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2O3lr9azAphfIiQKdwtIxSSHWK0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/workspace/SpringBoot/lab1",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.fileTypes",
+    "two.files.diff.last.used.file": "D:/workspace/JavaProjects/LearningJava/LearningJavaDeveloper/src/Theory/Sesson13_Interface_version2/Tổng kết OOP"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\JavaProjects\LearningJava\LearningJavaDeveloper\src\Theory\Sesson15_WrapperClass" />
+      <recent name="D:\workspace\JavaProjects\LearningJava\LearningJavaDeveloper\src\Theory\Sesson05_Static" />
+      <recent name="D:\workspace\JavaProjects\LearningJava\LearningJavaDeveloper\src\Theory\Sesson09_Sorting" />
+      <recent name="D:\workspace\JavaProjects\LearningJava\LearningJavaDeveloper\src\Theory" />
+      <recent name="D:\workspace\JavaProjects\LearningJava\LearningJavaDeveloper\src\Theory\Sesson06_InputAndTryCatch" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\JavaProjects\LearningJava\LearningJavaDeveloper\src\Theory\Sesson12_AbstractClass_version4" />
+      <recent name="D:\workspace\JavaProjects\LearningJava\LearningJavaDeveloper\src\Theory\Sesson11_Inheritance_version4" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Theory.Sesson14_CollectionsFrameWork_version3.Data" />
+      <recent name="Theory.Sesson12_AbstractClass_version2.Data" />
+      <recent name="Theory.Unit9_Sorting" />
+      <recent name="Theory" />
+      <recent name="Models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StringClass">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Theory.Sesson14_CollectionsFrameWork_version2.Main.Main" />
+      <module name="LearningJavaDeveloper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Theory.Sesson14_CollectionsFrameWork_version2.Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyToys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Theory.Sesson14_CollectionsFrameWork_version3.Utils.MyToys" />
+      <module name="LearningJavaDeveloper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Theory.Sesson14_CollectionsFrameWork_version3.Utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Theory.Sesson15_WrapperClassVersionMini.StringClass" />
+      <module name="LearningJavaDeveloper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Theory.Sesson15_WrapperClassVersionMini.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Theory.Sesson14_CollectionsFrameWork_version3.StudentManagement.StudentManagement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Theory.Sesson14_CollectionsFrameWork_version3.StudentManagement.StudentManagement" />
+      <module name="LearningJavaDeveloper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Theory.Sesson14_CollectionsFrameWork_version3.StudentManagement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WrapperClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Theory.Sesson15_WrapperClass.WrapperClass" />
+      <module name="LearningJavaDeveloper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Theory.Sesson15_WrapperClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StringClass" />
+        <item itemvalue="Application.WrapperClass" />
+        <item itemvalue="Application.Theory.Sesson14_CollectionsFrameWork_version3.StudentManagement.StudentManagement" />
+        <item itemvalue="Application.MyToys" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="891f54b5-8e94-41c8-9dc1-7ad6ce30905a" name="Changes" comment="" />
+      <created>1680797344042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680797344042</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
